@@ -12,6 +12,8 @@ class Post
     @@all
   end
   
+  def self.artist_name
+  
 end
   
     
